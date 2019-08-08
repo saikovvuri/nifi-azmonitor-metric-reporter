@@ -1,0 +1,7 @@
+org\apache\nifi\reporting\azmonitor\metrics\MetricSeries.class
+org\apache\nifi\reporting\azmonitor\metrics\Metric.class
+org\apache\nifi\reporting\azmonitor\AzMonitorReportingTask.class
+org\apache\nifi\reporting\azmonitor\metrics\MetricData.class
+org\apache\nifi\reporting\azmonitor\metrics\MetricNames.class
+org\apache\nifi\reporting\azmonitor\metrics\MetricBaseData.class
+org\apache\nifi\reporting\azmonitor\api\AzMonitorMetricsFactory.class
